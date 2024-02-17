@@ -1,0 +1,53 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "id":"1",
+      "Name":"Vemuri L K Sesha Phani Sarma",
+      "Email":"leelakrishna.vemuri@gmail.com",
+      "Password":"Phani@1234",
+      "Confirmpassword":"Phani@1234",
+      "Mobile":"9294004520",
+      "Key":"pallavipruthvi"
+    }
+  ],
+  "hospital":[
+     {
+    "id": "1",
+    "Docname": "Dr.Kalyan kumar varma",
+    "Email": "kalyankumarvarma32@gmail.com",
+    "Hosname": "Sunbliz hospitals",
+    "Hosadd": "Road Number 4, KPHB Phase 1, Landmark: Remedy Hospital Lane",
+    "Hoscity": "Hyderabad",
+    "Password": "Kalyan@1234",
+    "ConfirmPassword": "Kalyan@1234",
+    "Mobile": "9638527410"
+  },
+  {
+    "Docname": "Dr.Nedunuri Kameswar",
+    "Email": "kameswar6@gmail.com",
+    "Hosname": "Moonlight Hospitals",
+    "Hosadd": "Near Godavari",
+    "Hoscity": "Rajahmundry",
+    "Password": "Kami@1234",
+    "Confirmpassword": "Kami@1234",
+    "Mobile": "8529637410"
+  }
+  ]
+}

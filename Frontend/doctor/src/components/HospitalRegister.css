@@ -1,0 +1,12 @@
+.HospitalRegister{
+    width: 500px;
+    height: 410px;
+    border: 20px solid green; /* corrected border property */
+    padding: 50px;
+    margin: 20px  auto ;
+    text-align: center;
+    font-style: oblique;
+    color: burlywood;
+    background-color: antiquewhite;
+
+}
